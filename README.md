@@ -1,1 +1,1 @@
-# colour-trex
+# infinte-runner-
